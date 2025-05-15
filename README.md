@@ -81,7 +81,7 @@ Response:
 12FactorAuth/
 ├── first_assignment/
 │   └── apps/
-│       └── app.py        # Main application code
+│       └── main.py       # Main application code
 ├── Dockerfile            # Docker configuration
 ├── requirements.txt      # Python dependencies
 └── README.md             # This file
